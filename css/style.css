@@ -1,0 +1,11 @@
+body {
+   background-color: black;
+}
+.main {
+   color: rgb(70, 209, 45);
+   margin: 0 auto;
+}
+.discription {
+   font-size: 30px;
+   color: rgb(153, 15, 15);
+}
